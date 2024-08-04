@@ -59,12 +59,6 @@ public abstract class AycdTest {
             return;
         }
         
-        var responseToken = taskResponse.Token;
-        if (responseToken != null) {
-            var splashData = JsonSerializer.Deserialize<CfSplashDataDto>(responseToken);
-            Console.WriteLine("Deserialized token into splash data : " + splashData);
-        }
-
         Console.WriteLine("Task solved: " + taskResponse.Token);
     }
 }
