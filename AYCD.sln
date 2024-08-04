@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYCD", "AYCD\AYCD.csproj", "{21958A3D-05EC-4850-83F2-6B78AE378367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYCDTest", "AYCDTest\AYCDTest.csproj", "{690F47E9-F5A6-4156-887B-51EB31DD58C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21958A3D-05EC-4850-83F2-6B78AE378367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21958A3D-05EC-4850-83F2-6B78AE378367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21958A3D-05EC-4850-83F2-6B78AE378367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21958A3D-05EC-4850-83F2-6B78AE378367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690F47E9-F5A6-4156-887B-51EB31DD58C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690F47E9-F5A6-4156-887B-51EB31DD58C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690F47E9-F5A6-4156-887B-51EB31DD58C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690F47E9-F5A6-4156-887B-51EB31DD58C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
